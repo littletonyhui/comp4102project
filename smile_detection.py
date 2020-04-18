@@ -115,8 +115,7 @@ while(1):
                 #draw lines around hand
                 cv.line(detection_area,start, end, [0,255,0], 2)
             
-            
-            #l+=1
+           
         
             #print corresponding gestures which are in their ranges
             font = cv.FONT_HERSHEY_SIMPLEX
