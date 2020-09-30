@@ -1,4 +1,4 @@
-# comp4102project
+# comp4102project- smile detector
 
 How to start
   1. Please download the 2 xml files with the smile detection file and save them under the same path.
